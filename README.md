@@ -1,6 +1,8 @@
-# Antigravity MCP Server
+# Toogle MCP
 
-A unified [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that connects AI agents to your personal knowledge systems.
+**Toogle** = **T**ana + G**oogle**
+
+A unified [Model Context Protocol (MCP)](https://modelcontextprotocol.io/) server that bridges Tana and Google services for AI agents.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-Protocol-blueviolet)
@@ -34,8 +36,8 @@ Instead of asking an AI to run scripts, it can now call tools directly like `tan
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/antigravity-server.git
-cd antigravity-server
+git clone https://github.com/krshirkoohi/toogle-mcp.git
+cd toogle-mcp
 bun install
 ```
 

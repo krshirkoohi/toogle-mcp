@@ -1,7 +1,7 @@
 {
-    "name": "antigravity-server",
+    "name": "toogle-mcp",
     "version": "1.0.0",
-    "description": "Unified MCP server for the Antigravity system - wraps Tana, Google Calendar/Drive",
+    "description": "Toogle MCP - Tana + Google bridge for AI agents via Model Context Protocol",
     "type": "module",
     "main": "index.ts",
     "scripts": {

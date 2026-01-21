@@ -22,7 +22,7 @@ import { listCalendarEvents, addCalendarEvent } from './tools/calendar.js';
 // Initialize MCP Server
 const server = new Server(
     {
-        name: 'antigravity',
+        name: 'toogle',
         version: '1.0.0',
     },
     {
