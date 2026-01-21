@@ -75,7 +75,7 @@ Once configured, your AI agent will have access to the tools. Example prompts:
 
 ```
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────┐
-│   AI Agent      │────▶│  Antigravity MCP │────▶│   Tana CLI  │
+│   AI Agent      │────▶│    Toogle MCP    │────▶│   Tana CLI  │
 │ (Claude/Cursor) │     │      Server      │     │   (search)  │
 └─────────────────┘     └──────────────────┘     └─────────────┘
                                │
